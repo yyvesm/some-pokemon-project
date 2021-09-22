@@ -1,12 +1,12 @@
-#Some Pokemon - Phase 2 Project
+##Some Pokemon - Phase 2 Project
 
 App that displays Pokemon names and information. This app also allows you to build a team using the Pokemon given.
 
-#How to install
+##How to install
 
 Clone down and run npm install
 
-#How to run
+##How to run
 
 ## Available Scripts
 
