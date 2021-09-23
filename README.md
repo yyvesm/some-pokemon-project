@@ -1,6 +1,6 @@
 ##Some Pokemon - Phase 2 Project
 
-App that displays Pokemon names and information. This app also allows you to build a team using the Pokemon given.
+App that displays Pokemon names and information. This app also allows you to create a list of pokemon or whatever you feel like typing, like notes.
 
 ##How to install
 
