@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom"
 
-function Navbar(props) {
+function Navbar() {
     return (
         <nav>
         <Link to="/"> Pokemon list </Link>
         <br />
-        <Link to="/pokemon/team"> Pokemon Team </Link>
+        <Link to="/pokemondata/create/list"> Create Pokemon </Link>
         </nav>
     )
 }
